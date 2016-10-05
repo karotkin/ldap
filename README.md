@@ -1,0 +1,5 @@
+![](https://github.com/karotkin/ldap/blob/task3/Screens/1.PNG)
+![](https://github.com/karotkin/ldap/blob/task3/Screens/2.PNG)
+![](https://github.com/karotkin/ldap/blob/task3/Screens/3.png)
+![](https://github.com/karotkin/ldap/blob/task3/Screens/4.PNG)
+![](https://github.com/karotkin/ldap/blob/task3/Screens/5.png)
